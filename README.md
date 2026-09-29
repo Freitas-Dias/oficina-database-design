@@ -45,7 +45,7 @@ O sistema gerencia todo o fluxo operacional da oficina, desde o cadastro do clie
 
 Abaixo está a representação visual final da arquitetura do banco de dados, totalmente validada!
 
-![Diagrama ER da Oficina Mecânica](./Oficina - Ordem de Serviço.png)
+![Diagrama ER da Oficina Mecânica](./Oficina%20-%20Ordem%20de%20Servi%C3%A7o.png)
 
 ---
 
