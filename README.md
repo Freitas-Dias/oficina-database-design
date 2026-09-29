@@ -43,6 +43,8 @@ O sistema gerencia todo o fluxo operacional da oficina, desde o cadastro do clie
 
 ## 📊 Diagrama de Entidade-Relacionamento (DER)
 
+Abaixo está a representação visual final da arquitetura do banco de dados, totalmente validada!
+
 ![Diagrama ER da Oficina Mecânica](./Oficina - Ordem de Serviço.png)
 
 ---
