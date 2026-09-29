@@ -43,7 +43,7 @@ O sistema gerencia todo o fluxo operacional da oficina, desde o cadastro do clie
 
 ## 📊 Diagrama de Entidade-Relacionamento (DER)
 
-![Diagrama ER da Oficina Mecânica](./Oficina%20-%20Ordem%20de%20Serviço_7.png)
+![Diagrama ER da Oficina Mecânica](./Oficina - Ordem de Serviço.png)
 
 ---
 
